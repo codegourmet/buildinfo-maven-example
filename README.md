@@ -139,4 +139,4 @@ Any maven property can be used for interpolation. For an overview, start here:
 
 http://maven.apache.org/ref/3.6.3/maven-model-builder/#Model_Interpolation
 
-There are also plugins available that will expose the current git commit hash as a maven property.
+There are plugins available that will expose the current git commit hash as a maven property.
