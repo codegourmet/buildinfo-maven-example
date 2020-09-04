@@ -1,7 +1,5 @@
 # buildinfo-maven-example
 
-This is an example maven project for rendering a build info/version file when compiling.
-
 This document and example code repository describes how to render a properties file containing build timestamp and more information using maven.
 
 ## Howto
