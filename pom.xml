@@ -52,10 +52,10 @@
                 </configuration>
             </plugin>
 
-			<plugin>
+            <plugin>
                 <!-- Filter resources (for maven variable interpolation) -->
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-resources-plugin</artifactId>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
                 <version>${maven-resources-plugin.version}</version>
             </plugin>
 
