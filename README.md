@@ -2,6 +2,8 @@
 
 This is an example maven project for rendering a build info/version file when compiling.
 
+For a complete explanation see http://blog.codegourmet.de
+
 An example Main class will read the properties file from the jar and output its contents.
 
 The resulting buildinfo.properties file is also copied into a distribution archive, for manual access.
